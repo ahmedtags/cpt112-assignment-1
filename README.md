@@ -45,3 +45,51 @@ The assignment applies discrete mathematics concepts computationally in C++:
    ./sets_relations
    ```
 3. The program will demonstrate set operations and print the relation properties to console output.
+
+---
+
+## 📸 Sample Output
+
+```
+===== Pension Eligibility and Calculation App (PECA) =====
+1. Input Personal Information
+2. Input Service and Wages Information
+3. Display Service and Wages Information
+4. Set Pension Date and Calculate Pension Estimation
+5. Exit
+Select an option: 1
+
+Enter Employee ID: EMP001
+Enter Employee Name: Ahmed Taha
+Your Date of Birth Information:
+Day: 15   Month: 3   Year: 1980
+
+Select an option: 2
+Service Information:
+Set Appointment Date:
+Day: 1   Month: 6   Year: 2005
+Enter Last Salary: RM5000
+Enter Total Allowance: RM800
+
+Select an option: 4
+Set Pension Date:
+Day: 1   Month: 6   Year: 2026
+
+Pension Eligibility Calculation:
+Pension Eligibility Confirmed!
+Estimated Monthly Pension: RM2104.2
+Gratuity: RM94500
+
+Select an option: 3
+Service Information:
+Name: Ahmed Taha
+ID: EMP001
+Date of Birth: 15/3/1980
+Date of Appointment: 1/6/2005
+Last Salary: RM5000
+Total Allowance: RM800
+
+Select an option: 5
+Exiting the application. Goodbye!
+```
+
